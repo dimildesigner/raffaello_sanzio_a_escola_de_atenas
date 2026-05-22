@@ -2,7 +2,7 @@
 
 > Uma exposição digital imersiva sobre o afresco renascentista de Rafael Sanzio (1509–1511), construída com HTML, CSS e JavaScript puros.
 
-![Preview]([escola_de_atenas_color_completa.jpg](https://github.com/dimildesigner/raffaello_sanzio_a_escola_de_atenas/blob/main/assets/escola_de_atenas_rascunho_preview.jpg))
+![Escola de Atenas - rascunho](https://github.com/dimildesigner/raffaello_sanzio_a_escola_de_atenas/blob/main/assets/escola_de_atenas_rascunho_preview.jpg)
 
 ---
 
