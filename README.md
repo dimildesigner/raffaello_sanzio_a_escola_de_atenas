@@ -160,14 +160,18 @@ Em 1991, o designer **Mark Kostabi** extraiu duas figuras da obra para criar as 
 
 ---
 
-## Licença
-
-Este projeto é de uso educacional e cultural, sem fins comerciais. As imagens da obra de Rafael Sanzio são de domínio público. As capas dos álbuns do Guns N' Roses pertencem à Geffen Records e são utilizadas aqui exclusivamente para fins de referência histórica e cultural, sem qualquer uso comercial.
-
----
+## A Arte
 
 <p align="center">
   Raffaello Sanzio · 1509–1511 · Stanza della Segnatura · Museus do Vaticano
   <br><br>
   <em>"A arte verdadeira não envelhece — ela se transforma."</em>
 </p>
+
+---
+
+## Licença
+
+Este projeto é de uso educacional e cultural, sem fins comerciais. As imagens da obra de Rafael Sanzio são de domínio público. As capas dos álbuns do Guns N' Roses pertencem à Geffen Records e são utilizadas aqui exclusivamente para fins de referência histórica e cultural, sem qualquer uso comercial.
+
+MIT © [dimildesigner](https://github.com/dimildesigner)
