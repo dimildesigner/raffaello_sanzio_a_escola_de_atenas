@@ -954,7 +954,7 @@ footer p {
 }
 .link-assina {
   text-decoration: none;
-  color: inherit;
+  color: var(--gold);
 }
 
 /* ─── RESPONSIVE ─── */
